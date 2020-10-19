@@ -122,7 +122,7 @@
 	const $home = document.querySelector('#home');
 	const $featuringContainer = document.querySelector('#featuring');
 
-	const BASE_API = 'https://yts.lt/api/v2/'; 
+	const BASE_API = 'https://yts.mx/api/v2/'; 
 	
 	$form.addEventListener('submit', async function(event){
 		event.preventDefault();
